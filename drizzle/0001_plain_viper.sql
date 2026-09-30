@@ -1,0 +1,1 @@
+ALTER TABLE `deliveries` ADD `attempted_at` text;
